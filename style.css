@@ -53,3 +53,19 @@ body{
 h1{
     font-size: 16px;
 }
+
+.categories {
+    border: 1px #ccc solid;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.categories h2{
+   text-align: center;
+}
+
+.categories ul{
+   padding: 0;
+   list-style: square;
+   list-style: none;
+}
